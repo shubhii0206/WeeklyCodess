@@ -4,10 +4,11 @@ I am a part of CodessCafe Community. It is a mnetorship program where we(girls) 
 Here is my leetcode solution to the problems given for Week1.
 
 Mentor- Priya Chugh
-Community- CodessCafe
+
 
 
 ## Week1 Questions
+
 ASSIGNMENT-1 
 https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 https://leetcode.com/problems/sort-colors/
