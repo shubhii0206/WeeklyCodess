@@ -24,3 +24,36 @@ public:
             nums[i] = 2;
     }
 };
+
+################################################################################
+public:
+    void sortColors(vector<int> &nums)
+    {
+
+        int start = 0, mid = 0, end = nums.size() - 1, i = 0;
+
+        while (mid <= end)
+        {
+            if (nums[mid] == 0)
+            {
+                int t = nums[mid];
+                nums[mid] = nums[start];
+                nums[start] = t;
+                mid++;
+                start++;
+            }
+            else if (nums[mid] == 1)
+            {
+                mid++;
+            }
+            else
+            {
+                int t = nums[mid];
+                nums[mid] = nums[end];
+                nums[end] = t;
+
+                end--;
+            }
+        }
+    }
+};
