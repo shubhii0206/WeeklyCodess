@@ -1,0 +1,6 @@
+https://leetcode.com/discuss/interview-question?currentPage=2&orderBy=most_relevant&query=Google
+
+
+The questions sheet.
+I have tried to code my solutions from scratch. The solutions are not exactly coorect, however, I want to keep a tarck of my progress. 
+These codes will help me analyse my thought process, whenever i come back to this folder :)
