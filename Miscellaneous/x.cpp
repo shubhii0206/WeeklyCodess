@@ -1,4 +1,4 @@
 else if (/* condition */)
 {
-    /* code */
+    //check for ubuntu 20.04
 }
